@@ -4,5 +4,5 @@ session_start();
 session_destroy();
 $_SESSION=[];
 
-header('location: /Project_Mont_Gabaon/log.php');
+header('location: /log.php');
 ?>
